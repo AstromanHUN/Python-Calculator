@@ -1,0 +1,33 @@
+# Python Calculator
+
+This is a simple command-line calculator written in Python.  
+It can handle multiple numbers, basic math operations, and also supports expression mode with parentheses.
+
+## Features
+
+- Add, subtract, multiply, divide
+- Calculate averages
+- Expression mode (e.g., `(2 + 3) * 4`)
+- Switch between normal and expression mode
+- Error handling (e.g., division by zero)
+
+## How to Run
+
+1. Make sure you have **Python 3** installed.
+2. Download or clone this repository.
+
+
+##  Switching Modes
+
+- You can choose between:
+  - **Standard mode** (step-by-step number entry)
+  - **Expression mode** (full math expressions)
+
+At the end of each calculation, you can choose to continue or switch mode.
+
+##  Files
+
+- `calculator.py`: Main calculator script
+
+---
+ I hope you like it :)
